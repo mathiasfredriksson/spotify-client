@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Recursive Sans Linear Static Medium';
+	src: url('RecursiveSansLnrSt-Med.woff2') format('woff2'),
+		url('RecursiveSansLnrSt-Med.ttf')  format('truetype')
+}
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	font-family: 'Recursive Sans Linear Static Medium', sans-serif;
+}
+
+#root {
+	width: 100%;
+	height: 100%;
+}
